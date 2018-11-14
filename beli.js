@@ -46,15 +46,15 @@ let itemList = [
 beli(cash, itemList[0])
   .then(kembalian => {
     return beli(kembalian, itemList[1])
-    .then(kembalian => {
+  })
+  .then(kembalian => {
       return beli(kembalian, itemList[2])
-      .then(kembalian => {
-        return beli(kembalian, itemList[3])
-        .then(kembalian => {
-          return beli(kembalian, itemlist[4])
-        })
-      })
-    })
+  })
+  .then(kembalian => {
+    return beli(kembalian, itemList[3])
+  })
+  .then(kembalian => {
+    return beli(kembalian, itemlist[4])
   })
   .catch(err => {
     console.log(err)
