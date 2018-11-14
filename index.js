@@ -21,7 +21,7 @@ let nasgor = {
     },
     rujak = {
         item: 'Rujak',
-        harga: 6000,
+        harga: 11000,
         waktu: 5
     }
 
