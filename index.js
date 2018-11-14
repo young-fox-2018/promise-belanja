@@ -3,7 +3,7 @@ const beli = require('./beli')
 let obj1 = {
     item: "roti",
     harga: 5000,
-    waktu: 3
+    waktu: 3000
 }
 
 // beli(10000, obj, function(hasil) {
