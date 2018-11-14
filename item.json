@@ -1,0 +1,27 @@
+[
+    {
+        "item":"Kacang Sukro",
+        "harga": 5000,
+        "waktu": 1
+    },
+    {
+        "item":"Kacang Pilus",
+        "harga": 4000,
+        "waktu": 1
+    },
+    {
+        "item":"Kacang Mayasi",
+        "harga": 3000,
+        "waktu": 1
+    },
+    {
+        "item":"Kacang Almond",
+        "harga": 2000,
+        "waktu": 1
+    },
+    {
+        "item":"Kacang Kacangan",
+        "harga": 3000,
+        "waktu": 1
+    }
+]
